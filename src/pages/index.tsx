@@ -8,7 +8,7 @@ export default function Home() {
         as="form"
         flexDir="column"
         w="100%"
-        maxW={360}
+        maxW={340}
         p="8"
         borderRadius={8}
         bg="gray.800"
